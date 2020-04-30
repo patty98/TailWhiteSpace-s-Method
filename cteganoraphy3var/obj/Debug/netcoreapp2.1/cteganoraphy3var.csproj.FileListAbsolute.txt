@@ -1,0 +1,11 @@
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\bin\Debug\netcoreapp2.1\cteganoraphy3var.deps.json
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\bin\Debug\netcoreapp2.1\cteganoraphy3var.runtimeconfig.json
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\bin\Debug\netcoreapp2.1\cteganoraphy3var.runtimeconfig.dev.json
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\bin\Debug\netcoreapp2.1\cteganoraphy3var.dll
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\bin\Debug\netcoreapp2.1\cteganoraphy3var.pdb
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.AssemblyInfoInputs.cache
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.AssemblyInfo.cs
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.dll
+D:\Disk D old\projects VS c++\cteganoraphy3var\cteganoraphy3var\obj\Debug\netcoreapp2.1\cteganoraphy3var.pdb
